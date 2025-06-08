@@ -12,3 +12,10 @@ contract HelloBlockChain{
     }
 
 }
+
+/*
+Things that I found confusing was having to add a type of visibility after the function,
+getting use to setting a state variable above the constructor, and putting a keyword like "memory" 
+in the constructor function.
+
+*/
